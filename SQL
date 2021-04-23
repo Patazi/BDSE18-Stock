@@ -1,3 +1,0 @@
-SQL hello
-hi
-Hi!
