@@ -1,0 +1,8 @@
+﻿file_name,description
+2.csv,上市公司一覽表_raw_data
+4.csv,上櫃公司一覽表_raw_data
+stock_list_for_test.csv,台股小型測試時使用
+stock_list.csv,台股上市上櫃一覽表，已整理完成
+generate_stocklist.ipynb,從2.csv和4.csv檔案產生台股上市上櫃一覽表
+Ex_dividend.ipynb,單股除權息日程表爬蟲，與stock_list.csv搭配
+twse_daily_multiple_stock.ipynb,台股每日交易爬蟲，與stock_list.csv搭配
