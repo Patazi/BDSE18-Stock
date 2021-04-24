@@ -55,9 +55,8 @@ def Stock_crawl(stockNo,Name):
             dates.insert(0,Date)
             # 確定缺失的日期在list的第一個
 #             print(dates[0])
-           
-
             continue
+
     json=[] 
     json_stock=[]
 #     try:
@@ -94,7 +93,7 @@ def Stock_crawl(stockNo,Name):
     #1101_daily.csv下載完成...執行時間: 0:12:27.472259 秒
     #1102_daily.csv下載完成...執行時間: 0:12:47.176578 秒
 
-    with open('stock_list.csv', encoding='UTF-8') as f:
+with open('stock_list.csv', encoding='UTF-8') as f:
     list_of_stock = csv.DictReader(f)
     
     #設定之前已經載下來的股票代碼
