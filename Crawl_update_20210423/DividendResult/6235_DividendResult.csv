@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+6235,華孚,2017-07-26,20.75,18.76,1.99,息,20.6,16.9,18.75,18.76
+6235,華孚,2018-09-03,17.9,17.6,0.3,息,19.35,15.85,17.6,17.6
+6235,華孚,2019-09-19,13.3,12.8,0.5,息,14.05,11.55,12.8,12.8
+6235,華孚,2021-04-22,23.35,22.75,0.6,息,25.0,20.5,22.75,22.75

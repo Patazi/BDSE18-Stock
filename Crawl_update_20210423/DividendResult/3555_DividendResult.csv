@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+3555,重鵬,2012-08-02,33.6,29.4,4.2,除息,31.45,27.35,29.4,29.4
+3555,重鵬,2017-07-03,66.8,66.7,0.1,除息,73.3,60.1,66.7,66.7
+3555,重鵬,2018-07-06,45.0,43.8,1.2,除息,48.15,39.45,43.8,43.8

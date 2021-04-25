@@ -1,0 +1,2 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+4924,欣厚-KY,2012-08-07,29.35,27.83,1.52,除息,29.75,25.9,27.85,27.83

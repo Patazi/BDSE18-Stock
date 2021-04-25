@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+5475,德宏,2008-11-07,3.41,3.13,0.28,除權,3.34,2.92,3.13,3.13
+5475,德宏,2009-11-09,8.98,8.86,0.12,除權,9.6,8.24,8.98,8.98
+5475,德宏,2011-11-10,10.7,10.18,0.52,除權,10.85,9.47,10.2,10.18
+5475,德宏,2012-07-18,8.76,8.25,0.51,除息,8.82,7.68,8.25,8.25

@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+6212,理銘,2016-08-03,30.85,29.35,1.5,除息,32.25,26.45,29.35,29.35
+6212,理銘,2017-07-12,28.35,26.85,1.5,除息,29.5,24.2,26.85,26.85
+6212,理銘,2018-06-28,49.05,47.55,1.5,除息,52.3,42.8,47.55,47.55
+6212,理銘,2019-07-01,40.3,37.3,3.0,除息,41.0,33.6,37.3,37.3

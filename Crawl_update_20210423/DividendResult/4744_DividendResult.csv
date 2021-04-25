@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+4744,皇將,2018-08-02,35.9,34.9,1.0,除息,38.35,31.45,34.9,34.9
+4744,皇將,2019-07-19,31.9,30.4,1.5,除息,33.4,27.4,30.4,30.4
+4744,皇將,2020-07-29,32.5,30.86,1.64,除息,33.9,27.8,30.85,30.86

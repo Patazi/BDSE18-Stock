@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+8040,九暘,2008-07-29,33.1,31.53,1.57,除權息,33.7,29.35,31.55,31.53
+8040,九暘,2011-07-28,20.15,19.11,1.04,除息,20.4,17.8,19.1,19.11
+8040,九暘,2020-07-01,15.95,15.75,0.2,除息,17.3,14.2,15.75,15.75

@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+4154,康樂-KY,2012-07-04,41.95,40.37,1.58,除息,43.15,37.55,40.35,40.37
+4154,康樂-KY,2013-07-10,31.8,29.6,2.2,除息,31.65,27.55,29.6,29.6
+4154,康樂-KY,2014-06-27,27.85,27.32,0.53,除息,29.2,25.45,27.3,27.32
+4154,康樂-KY,2015-07-08,22.8,21.8,1.0,除息,23.95,19.65,21.8,21.8

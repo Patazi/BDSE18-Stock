@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+8480,泰昇-KY,2017-08-10,136.0,130.0,6.0,息,143.0,117.0,130.0,130.0
+8480,泰昇-KY,2018-07-30,142.0,125.45,16.55,權息,137.5,113.0,125.5,125.45
+8480,泰昇-KY,2019-08-08,122.5,117.2,5.3,息,128.5,105.5,117.0,117.2
+8480,泰昇-KY,2020-07-23,134.0,127.8,6.2,息,140.5,115.5,128.0,127.8

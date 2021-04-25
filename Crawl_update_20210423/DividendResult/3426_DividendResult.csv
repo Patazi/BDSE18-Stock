@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+3426,台興,2017-08-25,71.5,69.0,2.5,除息,75.9,62.1,69.0,69.0
+3426,台興,2018-08-08,70.2,57.67,12.53,除權息,63.4,52.0,57.7,57.67
+3426,台興,2019-08-29,44.45,41.95,2.5,除息,46.1,37.8,41.95,41.95
+3426,台興,2020-08-26,38.8,36.8,2.0,除息,40.45,33.15,36.8,36.8

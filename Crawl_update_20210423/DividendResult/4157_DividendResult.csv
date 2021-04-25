@@ -1,0 +1,2 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+4157,太景*-KY,2016-01-07,31.6,31.49,0.11,除權,34.75,28.35,31.6,31.6

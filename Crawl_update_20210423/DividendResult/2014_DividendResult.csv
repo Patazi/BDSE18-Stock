@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+2014,中鴻,2008-07-21,25.2,23.43,1.77,息,25.05,21.8,23.45,23.43
+2014,中鴻,2009-03-10,10.8,10.49,0.31,權,11.55,9.76,10.8,10.8
+2014,中鴻,2011-07-29,14.5,13.36,1.13,權息,14.25,12.45,13.35,13.36
+2014,中鴻,2019-07-25,10.65,10.55,0.1,息,11.6,9.5,10.55,10.55

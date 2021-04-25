@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+3067,全域,2008-09-10,15.15,13.6,1.55,除息,14.55,12.65,13.6,13.6
+3067,全域,2011-08-16,25.05,22.95,2.1,除息,24.55,21.35,22.95,22.95
+3067,全域,2012-09-18,18.2,17.6,0.6,除息,18.8,16.4,17.6,17.6

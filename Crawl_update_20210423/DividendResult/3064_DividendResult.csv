@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+3064,泰偉,2008-04-11,192.5,182.15,10.35,除權,205.5,169.5,192.5,192.5
+3064,泰偉,2008-07-25,89.7,84.21,5.49,除權息,90.1,78.4,84.2,84.21
+3064,泰偉,2012-08-07,40.5,36.81,3.69,除權,39.35,34.25,36.8,36.81
+3064,泰偉,2013-07-24,35.3,35.2,0.1,除息,37.65,32.75,35.2,35.2

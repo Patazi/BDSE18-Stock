@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+2736,高野,2016-08-16,33.85,31.35,2.5,除息,34.45,28.25,31.35,31.35
+2736,高野,2017-08-15,17.15,16.85,0.3,除息,18.5,15.2,16.85,16.85
+2736,高野,2018-08-14,13.7,13.6,0.1,除息,14.95,12.25,13.6,13.6
+2736,高野,2019-08-27,12.75,12.65,0.1,除息,13.9,11.4,12.65,12.65

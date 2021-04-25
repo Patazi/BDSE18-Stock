@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+2543,皇昌,2008-08-01,7.55,7.15,0.4,權,7.65,6.65,7.15,7.15
+2543,皇昌,2016-10-25,9.79,9.48,0.31,息,10.4,8.54,9.48,9.48
+2543,皇昌,2017-07-14,9.08,8.78,0.3,息,9.65,7.91,8.78,8.78

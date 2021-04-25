@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+3268,海德威,2008-08-11,38.4,34.85,3.55,除權息,37.25,32.45,34.85,34.85
+3268,海德威,2011-09-01,13.1,12.65,0.45,除權,14.0,11.8,13.1,13.1
+3268,海德威,2015-08-31,13.2,12.02,1.18,除權息,13.2,10.85,12.0,12.02

@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+4754,國碳科,2017-07-18,45.0,42.4,2.6,除息,46.6,38.2,42.4,42.4
+4754,國碳科,2018-07-18,43.9,41.3,2.6,除息,45.4,37.2,41.3,41.3
+4754,國碳科,2019-07-24,67.2,54.75,12.45,除權息,60.2,49.3,54.8,54.75
+4754,國碳科,2020-07-28,53.5,45.22,8.28,除權息,49.7,40.7,45.2,45.22

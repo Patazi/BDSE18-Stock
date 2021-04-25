@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+2752,豆府,2020-03-16,105.0,99.8,5.2,除息,109.5,89.9,99.8,99.8
+2752,豆府,2020-08-26,171.0,166.02,4.98,除權,182.5,149.5,166.0,166.02
+2752,豆府,2021-03-25,188.5,179.5,9.0,除息,197.0,162.0,179.5,179.5

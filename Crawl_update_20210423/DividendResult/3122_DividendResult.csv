@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+3122,笙泉,2015-07-20,18.8,17.8,1.0,除息,19.55,16.05,17.8,17.8
+3122,笙泉,2016-07-11,18.0,17.22,0.78,除息,18.9,15.5,17.2,17.22
+3122,笙泉,2017-07-11,15.65,15.14,0.51,除息,16.65,13.65,15.15,15.14
+3122,笙泉,2018-08-23,16.95,16.75,0.2,除息,18.4,15.1,16.75,16.75

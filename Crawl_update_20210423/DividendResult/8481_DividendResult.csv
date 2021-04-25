@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+8481,政伸,2017-07-10,40.3,38.1,2.2,息,41.9,34.3,38.1,38.1
+8481,政伸,2018-07-16,45.0,42.0,3.0,息,46.2,37.8,42.0,42.0
+8481,政伸,2019-07-08,61.3,58.3,3.0,息,64.1,52.5,58.3,58.3
+8481,政伸,2020-07-08,64.0,61.0,3.0,息,67.1,54.9,61.0,61.0

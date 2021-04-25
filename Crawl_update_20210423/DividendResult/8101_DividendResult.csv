@@ -1,0 +1,2 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+8101,華冠,2012-08-06,13.4,12.71,0.68,權息,13.55,11.85,12.7,12.71

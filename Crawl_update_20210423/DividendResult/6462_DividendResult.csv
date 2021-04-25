@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+6462,神盾,2018-06-14,161.0,156.72,4.28,除息,172.0,141.5,156.5,156.72
+6462,神盾,2019-07-05,250.5,242.41,8.09,除息,266.5,218.5,242.5,242.41
+6462,神盾,2020-08-03,195.0,186.0,9.0,除息,204.5,167.5,186.0,186.0

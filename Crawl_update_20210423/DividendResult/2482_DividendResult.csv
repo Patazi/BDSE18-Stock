@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+2482,連宇,2008-09-04,18.0,16.34,1.66,權息,17.45,15.2,16.35,16.34
+2482,連宇,2010-09-09,19.5,19.0,0.5,息,20.3,17.7,19.0,19.0
+2482,連宇,2016-08-30,13.8,13.65,0.15,息,15.0,12.3,13.65,13.65
+2482,連宇,2017-08-30,13.3,12.98,0.32,息,14.25,11.7,13.0,12.98

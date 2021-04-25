@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+5864,致和證,2018-05-14,11.6,11.1,0.5,除息,12.2,9.99,11.1,11.1
+5864,致和證,2019-06-17,11.6,10.38,1.22,除權息,11.4,9.35,10.4,10.38
+5864,致和證,2020-05-20,8.8,8.25,0.55,除息,9.07,7.43,8.25,8.25

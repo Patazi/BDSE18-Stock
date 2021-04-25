@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+3709,鑫聯大投控,2018-07-03,22.3,21.5,0.8,除息,23.65,19.35,21.5,21.5
+3709,鑫聯大投控,2019-07-18,18.3,17.6,0.7,除息,19.35,15.85,17.6,17.6
+3709,鑫聯大投控,2020-07-16,20.95,19.95,1.0,除息,21.9,18.0,19.95,19.95

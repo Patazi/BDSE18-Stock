@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+1316,上曜,2015-02-26,12.6,12.14,0.46,權,13.45,11.3,12.6,12.6
+1316,上曜,2018-11-20,16.8,14.06,2.73,權息,15.95,12.7,14.55,14.53
+1316,上曜,2019-08-01,15.45,13.56,1.89,息,14.9,12.25,13.55,13.56

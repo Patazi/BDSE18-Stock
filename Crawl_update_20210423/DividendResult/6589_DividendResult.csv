@@ -1,0 +1,3 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+6589,台康生技,2020-04-22,35.4,34.3,1.1,除權,38.9,30.9,35.4,35.4
+6589,台康生技,2021-04-13,160.0,150.07,9.93,除權,176.0,135.5,160.0,160.0

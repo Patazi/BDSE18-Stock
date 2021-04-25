@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+1217,愛之味,2008-04-16,15.5,14.68,0.82,權,16.55,13.7,15.5,15.5
+1217,愛之味,2011-06-16,12.7,12.62,0.07,權,13.55,11.75,12.7,12.7
+1217,愛之味,2016-09-07,7.95,7.83,0.12,權,8.61,7.05,7.83,7.83

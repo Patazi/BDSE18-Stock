@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+6465,威潤,2016-07-06,76.0,67.04,8.96,除權息,73.7,60.4,67.0,67.04
+6465,威潤,2017-07-11,79.7,62.04,17.66,除權息,68.2,55.9,62.0,62.04
+6465,威潤,2018-07-10,62.0,55.53,6.47,除權息,61.0,50.0,55.5,55.53
+6465,威潤,2019-07-09,58.1,57.1,1.0,除息,62.8,51.4,57.1,57.1

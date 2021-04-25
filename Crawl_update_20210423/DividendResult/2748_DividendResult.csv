@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+2748,雲品,2017-06-22,73.7,71.2,2.5,息,78.3,64.1,71.2,71.2
+2748,雲品,2018-06-27,70.0,67.25,2.75,息,73.9,60.6,67.3,67.25
+2748,雲品,2019-07-04,62.0,59.25,2.75,息,65.1,53.4,59.3,59.25
+2748,雲品,2020-09-15,46.0,39.13,6.87,權息,43.0,35.25,39.15,39.13

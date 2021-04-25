@@ -1,0 +1,3 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+5432,達威,2008-08-29,9.3,8.8,0.5,除息,9.41,8.19,8.8,8.8
+5432,達威,2019-07-01,19.15,18.65,0.5,除息,20.5,16.8,18.65,18.65

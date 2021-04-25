@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+6276,安鈦克,2013-08-27,30.2,26.55,3.65,除權息,28.4,24.7,26.55,26.55
+6276,安鈦克,2014-07-24,21.5,20.7,0.8,除息,22.1,19.3,20.7,20.7
+6276,安鈦克,2015-08-18,7.8,7.2,0.6,除息,7.92,6.48,7.2,7.2
+6276,安鈦克,2020-08-26,28.0,27.36,0.64,除息,30.05,24.65,27.35,27.36

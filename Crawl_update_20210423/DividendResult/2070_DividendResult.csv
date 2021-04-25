@@ -1,0 +1,3 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+2070,精湛,2019-07-10,35.55,33.55,2.0,除息,36.9,30.2,33.55,33.55
+2070,精湛,2020-07-03,31.75,30.75,1.0,除息,33.8,27.7,30.75,30.75

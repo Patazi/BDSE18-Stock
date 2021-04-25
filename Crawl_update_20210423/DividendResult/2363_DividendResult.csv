@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+2363,矽統,2010-07-13,20.15,19.38,0.76,息,20.7,18.05,19.4,19.38
+2363,矽統,2011-07-11,14.95,14.76,0.19,息,15.75,13.75,14.75,14.76
+2363,矽統,2020-09-23,12.95,11.06,1.88,權息,12.15,9.96,11.05,11.06

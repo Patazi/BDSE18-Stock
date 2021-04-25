@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+8466,美吉吉-KY,2017-07-31,119.0,112.0,7.0,息,123.0,101.0,112.0,112.0
+8466,美吉吉-KY,2018-08-03,67.7,61.7,6.0,息,67.8,55.6,61.7,61.7
+8466,美吉吉-KY,2019-06-26,72.8,69.8,3.0,息,76.7,62.9,69.8,69.8
+8466,美吉吉-KY,2020-08-05,72.5,68.4,4.1,息,75.2,61.6,68.4,68.4

@@ -1,0 +1,2 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+6172,互億,2020-08-25,24.7,24.5,0.2,息,26.95,22.05,24.5,24.5

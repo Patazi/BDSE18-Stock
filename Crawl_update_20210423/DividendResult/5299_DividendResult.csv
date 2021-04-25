@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+5299,杰力,2018-09-06,122.5,119.75,2.75,除息,131.5,108.0,120.0,119.75
+5299,杰力,2019-08-07,114.0,108.9,5.1,除息,119.5,98.1,109.0,108.9
+5299,杰力,2020-08-05,120.0,114.5,5.5,除息,125.5,103.5,114.5,114.5

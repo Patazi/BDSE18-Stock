@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+4561,健椿,2018-08-07,44.95,41.41,3.54,除權息,45.55,37.3,41.4,41.41
+4561,健椿,2019-07-23,26.4,25.4,1.0,除息,27.9,22.9,25.4,25.4
+4561,健椿,2020-07-16,26.05,25.8,0.25,除息,28.35,23.25,25.8,25.8

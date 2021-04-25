@@ -1,0 +1,2 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+2743,山富,2020-09-04,15.2,14.4,0.8,除息,15.8,13.0,14.4,14.4

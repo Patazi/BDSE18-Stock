@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+3147,大綜,2018-08-23,21.45,20.21,1.24,除息,22.2,18.2,20.2,20.21
+3147,大綜,2019-08-22,44.0,42.3,1.7,除息,46.5,38.1,42.3,42.3
+3147,大綜,2020-08-28,34.9,32.8,2.1,除息,36.05,29.55,32.8,32.8

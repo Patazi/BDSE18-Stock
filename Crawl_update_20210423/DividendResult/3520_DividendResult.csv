@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+3520,華盈,2008-08-04,14.2,13.11,1.09,除權息,14.0,12.2,13.1,13.11
+3520,華盈,2009-08-04,12.3,11.76,0.54,除權息,12.55,10.95,11.75,11.76
+3520,華盈,2010-07-29,14.4,13.9,0.5,除息,14.85,12.95,13.9,13.9

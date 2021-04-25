@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+3708,上緯投控,2017-08-25,83.0,81.98,1.01,息,90.1,73.8,82.0,81.98
+3708,上緯投控,2018-07-19,78.1,76.1,1.99,息,83.7,68.5,76.1,76.1
+3708,上緯投控,2019-07-09,84.8,79.8,5.0,息,87.7,71.9,79.8,79.8
+3708,上緯投控,2020-07-28,101.0,96.99,4.0,息,106.5,87.3,97.0,96.99

@@ -1,0 +1,2 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+6461,益得,2019-10-28,21.0,20.63,0.37,除權,23.1,18.6,21.0,21.0

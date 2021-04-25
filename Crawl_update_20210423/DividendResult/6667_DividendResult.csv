@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+6667,信紘科,2019-07-03,38.8,36.0,2.8,除息,39.6,32.4,36.0,36.0
+6667,信紘科,2020-07-06,69.7,67.71,1.99,除息,74.4,61.0,67.7,67.71
+6667,信紘科,2020-10-07,58.8,57.55,1.25,除權,64.6,51.8,58.8,58.8

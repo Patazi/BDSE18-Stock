@@ -1,0 +1,3 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+6666,羅麗芬-KY,2019-07-11,227.0,200.0,27.0,權息,220.0,180.0,200.0,200.0
+6666,羅麗芬-KY,2020-07-01,133.0,126.0,7.0,息,138.5,113.5,126.0,126.0

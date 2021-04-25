@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+2466,冠西電,2008-07-31,36.7,32.78,3.92,權息,35.05,30.5,32.8,32.78
+2466,冠西電,2010-08-26,33.1,32.13,0.96,權,34.35,29.9,32.15,32.13
+2466,冠西電,2015-10-27,36.3,35.39,0.9,權,39.9,31.9,36.3,36.3

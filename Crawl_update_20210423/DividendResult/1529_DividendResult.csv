@@ -1,0 +1,3 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+1529,樂士,2019-07-04,16.9,14.91,1.98,權息,18.35,13.45,16.7,16.7
+1529,樂士,2020-07-23,17.2,16.7,0.5,息,18.35,15.05,16.7,16.7

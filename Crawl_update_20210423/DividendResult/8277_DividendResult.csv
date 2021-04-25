@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+8277,商丞,2008-08-06,10.1,10.12,-0.02,除權,10.8,9.4,10.1,10.1
+8277,商丞,2010-07-28,76.8,68.0,8.8,除權息,72.7,63.3,68.0,68.0
+8277,商丞,2010-08-10,70.9,68.13,2.77,除權,75.8,63.4,70.9,70.9
+8277,商丞,2014-07-15,17.5,17.0,0.5,除息,18.15,15.85,17.0,17.0

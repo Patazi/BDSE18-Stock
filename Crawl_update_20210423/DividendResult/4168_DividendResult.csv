@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+4168,醣聯,2013-08-05,111.0,96.21,14.79,除權息,106.5,89.5,99.7,99.67
+4168,醣聯,2014-08-12,93.3,84.82,8.48,除權,90.7,78.9,84.8,84.82
+4168,醣聯,2019-11-19,20.05,20.05,0.0,除權,22.05,18.05,20.05,20.05

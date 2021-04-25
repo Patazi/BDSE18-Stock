@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+1432,大魯閣,2013-08-27,38.3,27.35,10.94,權,29.25,25.45,27.35,27.35
+1432,大魯閣,2013-09-26,28.85,26.69,2.16,權,30.85,24.85,28.85,28.85
+1432,大魯閣,2020-11-16,21.55,17.55,4.0,息,19.3,15.8,17.55,17.55

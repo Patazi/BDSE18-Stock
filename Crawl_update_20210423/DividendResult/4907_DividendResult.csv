@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+4907,富宇,2018-08-30,23.55,22.05,1.5,除息,24.25,19.85,22.05,22.05
+4907,富宇,2019-08-29,24.7,23.2,1.5,除息,25.5,20.9,23.2,23.2
+4907,富宇,2020-08-25,29.15,27.95,1.2,除息,30.7,25.2,27.95,27.95

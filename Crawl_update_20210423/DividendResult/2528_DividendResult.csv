@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+2528,皇普,2014-10-06,12.65,12.35,0.3,息,13.2,11.5,12.35,12.35
+2528,皇普,2015-06-30,9.7,9.5,0.2,息,10.45,8.55,9.5,9.5
+2528,皇普,2018-05-29,20.0,18.51,1.48,權,22.0,16.7,20.0,20.0

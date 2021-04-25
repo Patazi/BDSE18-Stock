@@ -1,0 +1,3 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+4406,新昕纖,2011-07-21,9.36,9.16,0.2,除息,9.8,8.52,9.16,9.16
+4406,新昕纖,2012-07-17,6.86,6.36,0.5,除息,6.8,5.92,6.36,6.36

@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+8442,威宏-KY,2017-07-07,55.1,52.9,2.2,息,58.1,47.65,52.9,52.9
+8442,威宏-KY,2019-08-28,58.0,56.5,1.5,息,62.1,50.9,56.5,56.5
+8442,威宏-KY,2019-11-21,57.0,55.49,1.5,權,62.7,49.95,57.0,57.0
+8442,威宏-KY,2020-11-30,45.6,45.3,0.3,息,49.8,40.8,45.3,45.3

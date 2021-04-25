@@ -1,0 +1,2 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+5345,天揚,2016-07-12,9.24,8.94,0.3,除息,9.83,8.05,8.94,8.94

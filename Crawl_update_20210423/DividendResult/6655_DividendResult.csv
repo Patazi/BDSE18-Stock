@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+6655,科定,2019-07-04,51.0,49.0,2.0,息,53.9,44.1,49.0,49.0
+6655,科定,2019-07-25,44.75,44.2,0.54,權,49.2,39.8,44.75,44.75
+6655,科定,2020-07-13,42.55,40.55,2.0,息,44.6,36.5,40.55,40.55

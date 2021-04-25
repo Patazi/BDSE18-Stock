@@ -1,0 +1,3 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+6612,奈米醫材,2019-07-17,71.6,71.1,0.5,除息,78.2,64.0,71.1,71.1
+6612,奈米醫材,2020-06-19,75.3,74.8,0.5,除息,82.2,67.4,74.8,74.8

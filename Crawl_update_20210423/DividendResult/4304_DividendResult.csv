@@ -1,0 +1,2 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+4304,勝昱,2010-06-11,14.05,13.66,0.39,除權,15.0,12.75,14.05,14.05

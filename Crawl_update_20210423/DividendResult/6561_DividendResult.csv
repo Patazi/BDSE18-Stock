@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+6561,是方,2018-07-30,215.5,210.53,4.97,除息,231.5,189.5,210.5,210.53
+6561,是方,2019-06-27,205.5,198.0,7.5,除息,217.5,178.5,198.0,198.0
+6561,是方,2020-07-22,351.5,343.5,8.0,除息,377.5,309.5,343.5,343.5

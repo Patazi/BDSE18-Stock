@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+4764,雙鍵,2018-08-30,84.0,81.3,2.7,息,89.4,73.2,81.3,81.3
+4764,雙鍵,2019-08-08,81.8,69.81,11.98,權息,76.7,62.9,69.8,69.81
+4764,雙鍵,2020-10-06,61.0,59.77,1.22,息,65.7,53.8,59.8,59.77

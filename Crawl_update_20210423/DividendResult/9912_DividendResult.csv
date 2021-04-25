@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+9912,偉聯,2013-08-28,26.0,20.47,5.52,權息,21.9,19.05,20.45,20.47
+9912,偉聯,2014-08-27,16.55,14.8,1.74,權息,15.8,13.8,14.8,14.8
+9912,偉聯,2015-09-02,9.92,8.92,1.0,息,9.81,8.03,8.92,8.92

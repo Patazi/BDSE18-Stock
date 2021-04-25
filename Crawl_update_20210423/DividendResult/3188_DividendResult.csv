@@ -1,0 +1,5 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+3188,鑫龍騰,2008-07-31,18.2,16.28,1.92,除權息,17.4,15.15,16.3,16.28
+3188,鑫龍騰,2019-07-03,21.2,20.7,0.5,除息,22.75,18.65,20.7,20.7
+3188,鑫龍騰,2019-11-18,19.35,18.27,1.08,除權,21.25,16.45,19.35,19.35
+3188,鑫龍騰,2020-07-10,14.6,14.1,0.5,除息,15.5,12.7,14.1,14.1

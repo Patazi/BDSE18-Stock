@@ -1,0 +1,4 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+8476,台境,2017-08-03,52.9,49.22,3.68,除權息,54.1,44.3,49.2,49.22
+8476,台境,2018-01-09,39.1,38.25,0.85,除權,43.0,34.45,39.1,39.1
+8476,台境,2018-08-20,19.25,18.33,0.92,除權,20.15,16.5,18.35,18.33

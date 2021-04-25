@@ -1,0 +1,2 @@
+stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
+4572,駐龍,2020-07-07,99.9,94.9,5.0,息,104.0,85.5,94.9,94.9
