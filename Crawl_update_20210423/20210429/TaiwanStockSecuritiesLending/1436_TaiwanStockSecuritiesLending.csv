@@ -1,0 +1,3 @@
+date,stock_id,transaction_type,volume,fee_rate,close,original_return_date,original_lending_period
+2011-10-25,1436,議借,23,5.0,11.9,2012-04-25,183
+2019-03-13,1436,競價,100,3.0,37.25,2019-09-12,183

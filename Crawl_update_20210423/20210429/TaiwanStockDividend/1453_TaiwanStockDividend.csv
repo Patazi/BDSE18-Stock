@@ -1,0 +1,9 @@
+date,stock_id,year,StockEarningsDistribution,StockStatutorySurplus,StockExDividendTradingDate,TotalEmployeeStockDividend,TotalEmployeeStockDividendAmount,RatioOfEmployeeStockDividendOfTotal,RatioOfEmployeeStockDividend,CashEarningsDistribution,CashStatutorySurplus,CashExDividendTradingDate,CashDividendPaymentDate,TotalEmployeeCashDividend,TotalNumberOfCashCapitalIncrease,CashIncreaseSubscriptionRate,CashIncreaseSubscriptionpRrice,RemunerationOfDirectorsAndSupervisors,ParticipateDistributionOfTotalShares,AnnouncementDate,AnnouncementTime
+2010-12-07,1453,99年,0.0,0.0,2010-12-01,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0,30000000.0,58.68,10.0,0.0,0.0,2010-11-24,15:28:15
+2011-08-24,1453,99年,0.5,0.0,2011-08-18,0.0,0.0,0.0,0.0,0.0,0.0,,,360423.0,0.0,0.0,0.0,360423.0,0.0,2011-08-01,16:53:17
+2012-08-27,1453,100年,0.4000000059604645,0.0,2012-08-21,0.0,0.0,0.0,0.0,0.0,0.0,,,132491.0,0.0,0.0,0.0,132491.0,0.0,2012-07-30,15:47:58
+2013-10-23,1453,101年,0.8500000238418579,0.0,2013-10-17,0.0,0.0,0.0,0.0,0.0,0.0,,,2196400.0,0.0,0.0,0.0,2196400.0,0.0,2013-09-27,12:07:54
+2014-09-02,1453,102年,0.49071601033210754,0.0,2014-08-27,0.0,0.0,0.0,0.0,0.0,0.0,,,352549.0,0.0,0.0,0.0,352549.0,0.0,2014-08-12,16:50:37
+2016-08-16,1453,104年,0.20000000298023224,0.0,2016-08-10,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,2016-07-22,14:45:22
+2019-08-12,1453,107年,1.0,0.0,2019-08-06,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,89674671.0,2019-07-18,17:16:27
+2020-09-01,1453,108年,0.2,0.0,2020-08-26,0.0,0.0,0.0,0.0,0.0,0.0,,,0.0,0.0,0.0,0.0,0.0,98642138.0,2020-08-10,15:05:25
