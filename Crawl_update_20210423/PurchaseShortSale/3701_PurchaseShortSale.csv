@@ -1,2 +1,0 @@
-stock_id,stock_name,date,MarginPurchaseBuy,MarginPurchaseCashRepayment,MarginPurchaseLimit,MarginPurchaseSell,MarginPurchaseTodayBalance,MarginPurchaseYesterdayBalance,OffsetLoanAndShort,ShortSaleBuy,ShortSaleCashRepayment,ShortSaleLimit,ShortSaleSell,ShortSaleTodayBalance,ShortSaleYesterdayBalance,Note
-3701,大眾控,2007-10-17,0.0,0.0,26206.0,0.0,0.0,0.0,0.0,0.0,0.0,26206.0,0.0,0.0,0.0,OX

@@ -1,6 +1,0 @@
-stock_id,stock_name,date,MarginPurchaseBuy,MarginPurchaseCashRepayment,MarginPurchaseLimit,MarginPurchaseSell,MarginPurchaseTodayBalance,MarginPurchaseYesterdayBalance,OffsetLoanAndShort,ShortSaleBuy,ShortSaleCashRepayment,ShortSaleLimit,ShortSaleSell,ShortSaleTodayBalance,ShortSaleYesterdayBalance,Note
-2247,汎德永業,2021-04-19,0.0,0.0,20177.0,0.0,0.0,0.0,0.0,0.0,0.0,20177.0,0.0,0.0,0.0, 
-2247,汎德永業,2021-04-20,60.0,0.0,20177.0,0.0,60.0,0.0,0.0,0.0,0.0,20177.0,0.0,0.0,0.0, 
-2247,汎德永業,2021-04-21,18.0,0.0,20177.0,16.0,62.0,60.0,2.0,0.0,0.0,20177.0,0.0,0.0,0.0, 
-2247,汎德永業,2021-04-22,7.0,0.0,20177.0,8.0,61.0,62.0,0.0,0.0,0.0,20177.0,0.0,0.0,0.0, 
-2247,汎德永業,2021-04-23,3.0,0.0,20177.0,5.0,59.0,61.0,0.0,0.0,0.0,20177.0,0.0,0.0,0.0, 
