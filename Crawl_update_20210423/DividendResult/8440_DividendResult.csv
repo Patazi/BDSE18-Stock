@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-8440,綠電,2018-05-15,24.0,23.14,0.86,除息,25.45,20.85,23.15,23.14
-8440,綠電,2019-05-14,16.0,15.5,0.5,除息,17.05,13.95,15.5,15.5
-8440,綠電,2020-05-20,13.3,12.9,0.4,除息,14.15,11.65,12.9,12.9

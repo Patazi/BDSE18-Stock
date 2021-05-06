@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-3224,三顧,2008-08-05,7.71,7.1,0.61,除權息,7.59,6.61,7.1,7.1
-3224,三顧,2015-02-24,27.3,25.49,1.81,除權,29.2,23.75,27.3,27.3
-3224,三顧,2016-04-28,31.55,30.77,0.78,除權,34.7,27.7,31.55,31.55
-3224,三顧,2017-12-27,45.8,43.44,2.36,除權,50.3,39.1,45.8,45.8

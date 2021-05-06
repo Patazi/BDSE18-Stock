@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-2928,紅馬-KY,2016-07-28,54.0,53.05,0.95,除息,58.3,47.75,53.1,53.05
-2928,紅馬-KY,2017-06-22,104.0,100.8,3.2,除息,110.5,90.8,101.0,100.8
-2928,紅馬-KY,2018-07-06,49.95,49.16,0.79,除息,54.0,44.25,49.15,49.16
-2928,紅馬-KY,2020-07-15,40.75,39.75,1.0,除息,43.7,35.8,39.75,39.75

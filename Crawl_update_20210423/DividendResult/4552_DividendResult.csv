@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-4552,力達-KY,2017-08-03,114.5,106.5,8.0,息,117.0,95.9,106.5,106.5
-4552,力達-KY,2018-11-07,59.5,54.5,5.0,息,59.9,49.05,54.5,54.5
-4552,力達-KY,2019-09-25,51.8,42.67,9.13,權息,46.9,38.45,42.65,42.67
-4552,力達-KY,2020-09-29,38.15,36.45,1.7,息,40.05,32.85,36.45,36.45

@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-1471,首利,2008-07-29,18.45,18.25,0.2,權,19.5,17.0,18.25,18.25
-1471,首利,2009-11-04,28.0,27.3,0.69,權,29.95,25.4,28.0,28.0
-1471,首利,2010-07-26,25.95,24.74,1.21,權,27.0,23.05,25.25,25.27

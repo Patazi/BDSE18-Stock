@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-1732,毛寶,2008-07-18,11.1,10.6,0.5,息,11.3,9.86,10.6,10.6
-1732,毛寶,2010-07-15,15.2,14.6,0.6,息,15.6,13.6,14.6,14.6
-1732,毛寶,2011-07-14,17.15,16.65,0.5,息,17.8,15.5,16.65,16.65
-1732,毛寶,2012-09-10,14.2,13.8,0.4,息,14.75,12.85,13.8,13.8

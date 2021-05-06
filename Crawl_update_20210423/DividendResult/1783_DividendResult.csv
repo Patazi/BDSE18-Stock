@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-1783,和康生,2018-07-24,29.4,29.24,0.15,息,32.15,26.35,29.25,29.24
-1783,和康生,2019-07-24,27.5,26.81,0.68,息,29.45,24.15,26.8,26.81
-1783,和康生,2020-08-06,27.65,26.87,0.78,息,29.55,24.2,26.85,26.87

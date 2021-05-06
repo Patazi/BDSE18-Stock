@@ -1,3 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-3259,鑫創,2010-09-13,21.45,21.05,0.4,除息,22.5,19.6,21.05,21.05
-3259,鑫創,2015-06-18,37.0,35.76,1.24,除權,40.7,32.2,37.0,37.0

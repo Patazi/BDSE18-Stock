@@ -1,3 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-6643,M31,2019-06-27,294.5,287.5,7.0,除息,316.0,259.0,287.5,287.5
-6643,M31,2020-06-23,354.5,346.95,7.55,除息,381.5,312.5,347.0,346.95

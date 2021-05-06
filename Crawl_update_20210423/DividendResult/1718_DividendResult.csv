@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-1718,中纖,2008-10-27,5.3,4.46,0.83,息,4.77,4.15,4.46,4.46
-1718,中纖,2016-09-22,7.57,7.11,0.46,權息,7.82,6.4,7.11,7.11
-1718,中纖,2018-08-29,12.4,11.54,0.85,權息,12.65,10.4,11.55,11.54
-1718,中纖,2019-08-06,9.1,8.45,0.65,權息,9.29,7.61,8.45,8.45

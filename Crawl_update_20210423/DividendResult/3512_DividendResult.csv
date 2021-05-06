@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-3512,皇龍,2008-07-24,19.0,17.8,1.2,除息,19.0,16.6,17.8,17.8
-3512,皇龍,2013-07-17,11.25,11.05,0.2,除息,11.8,10.3,11.05,11.05
-3512,皇龍,2018-02-08,38.6,36.98,1.62,除權,42.45,33.3,38.6,38.6
-3512,皇龍,2020-06-16,29.6,28.73,0.87,除權,32.55,25.9,29.6,29.6

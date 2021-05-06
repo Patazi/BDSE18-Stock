@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-4563,百德,2019-07-09,57.5,54.5,3.0,除息,59.9,49.05,54.5,54.5
-4563,百德,2019-10-03,49.3,48.27,1.03,除權,54.2,43.45,49.3,49.3
-4563,百德,2020-03-02,46.7,45.48,1.22,除權,51.3,40.95,46.7,46.7

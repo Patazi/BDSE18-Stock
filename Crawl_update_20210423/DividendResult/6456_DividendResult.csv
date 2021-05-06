@@ -1,6 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-6456,GIS-KY,2016-06-21,83.2,80.2,3.0,息,88.2,72.2,80.2,80.2
-6456,GIS-KY,2017-06-14,214.0,210.0,4.0,息,231.0,189.0,210.0,210.0
-6456,GIS-KY,2018-06-21,206.0,197.0,9.0,息,216.5,177.5,197.0,197.0
-6456,GIS-KY,2019-06-19,102.5,98.5,4.0,息,108.0,88.7,98.5,98.5
-6456,GIS-KY,2020-07-14,117.5,114.0,3.5,息,125.0,103.0,114.0,114.0

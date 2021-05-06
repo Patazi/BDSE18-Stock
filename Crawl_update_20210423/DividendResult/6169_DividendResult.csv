@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-6169,昱泉,2008-07-22,12.25,11.73,0.52,除息,12.55,10.95,11.75,11.73
-6169,昱泉,2009-06-25,87.9,83.95,3.95,除息,89.8,78.1,83.9,83.95
-6169,昱泉,2010-07-27,118.0,109.1,8.9,除息,116.5,101.5,109.0,109.1
-6169,昱泉,2012-09-10,20.2,19.2,1.0,除息,20.5,17.9,19.2,19.2

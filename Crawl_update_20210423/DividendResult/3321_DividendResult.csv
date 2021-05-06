@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-3321,同泰,2016-06-22,21.7,19.97,1.73,息,21.95,18.0,19.95,19.97
-3321,同泰,2018-11-29,10.95,10.45,0.5,權,12.0,9.41,10.95,10.95
-3321,同泰,2019-12-05,17.0,15.69,1.31,權,18.7,14.15,17.0,17.0
-3321,同泰,2020-11-24,15.6,14.81,0.79,權,17.15,13.35,15.6,15.6

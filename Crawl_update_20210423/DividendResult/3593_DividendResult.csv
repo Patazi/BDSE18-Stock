@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-3593,力銘,2009-09-11,38.6,36.33,2.26,權息,38.85,33.8,36.35,36.33
-3593,力銘,2010-09-09,31.9,29.1,2.8,息,31.1,27.1,29.1,29.1
-3593,力銘,2011-09-09,14.5,13.5,1.0,息,14.4,12.6,13.5,13.5

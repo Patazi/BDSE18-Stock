@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-2368,金像電,2008-08-04,16.0,14.72,1.28,權息,15.75,13.7,14.7,14.72
-2368,金像電,2009-11-17,12.3,11.9,0.4,權息,12.7,11.1,11.9,11.9
-2368,金像電,2011-09-16,9.24,9.09,0.15,息,9.72,8.46,9.09,9.09

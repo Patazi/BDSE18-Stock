@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-8093,保銳,2008-09-02,14.5,12.38,2.12,除權息,13.2,11.55,12.4,12.38
-8093,保銳,2009-07-09,10.75,10.35,0.4,除息,11.05,9.63,10.35,10.35
-8093,保銳,2010-07-22,14.2,13.5,0.7,除息,14.4,12.6,13.5,13.5

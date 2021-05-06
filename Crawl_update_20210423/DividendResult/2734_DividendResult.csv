@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-2734,易飛網,2014-08-27,47.6,42.05,5.55,除權息,46.15,39.15,43.15,43.15
-2734,易飛網,2015-09-01,31.4,26.72,4.68,除權息,29.35,24.05,26.7,26.72
-2734,易飛網,2016-09-06,19.6,19.1,0.5,除息,21.0,17.2,19.1,19.1

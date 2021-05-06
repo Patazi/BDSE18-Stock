@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-2705,六福,2011-12-09,16.25,15.85,0.39,權,17.35,14.75,16.25,16.25
-2705,六福,2015-07-21,11.45,11.27,0.17,息,12.35,10.15,11.25,11.27
-2705,六福,2016-08-29,8.94,8.66,0.28,權息,9.52,7.8,8.66,8.66

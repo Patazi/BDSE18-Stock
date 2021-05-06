@@ -1,3 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-3176,基亞,2012-04-12,66.6,63.58,3.02,除權,71.2,59.2,66.6,66.6
-3176,基亞,2013-08-21,171.0,169.77,1.23,除權,182.5,158.0,171.0,171.0

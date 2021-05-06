@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-6499,益安,2018-09-11,109.0,108.87,0.13,除權,119.5,98.0,109.0,109.0
-6499,益安,2018-11-23,89.7,89.21,0.49,除權,98.6,80.3,89.7,89.7
-6499,益安,2019-07-05,84.0,76.37,7.63,除權,84.0,68.8,76.4,76.37

@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-2724,富驛-KY,2012-09-25,87.1,81.17,5.93,除權,86.8,75.5,81.2,81.17
-2724,富驛-KY,2013-11-07,43.3,40.76,2.54,除權息,43.6,37.95,40.75,40.76
-2724,富驛-KY,2014-01-13,38.5,38.05,0.45,除權,41.15,35.4,38.5,38.5
-2724,富驛-KY,2014-09-09,36.45,34.71,1.74,除權,37.1,32.3,34.7,34.71

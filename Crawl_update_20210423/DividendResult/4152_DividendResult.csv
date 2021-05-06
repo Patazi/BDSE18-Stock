@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-4152,台微體,2013-07-23,352.5,342.42,10.08,除權,377.0,318.5,352.5,352.5
-4152,台微體,2019-10-04,83.5,83.29,0.21,除權,91.8,75.0,83.5,83.5
-4152,台微體,2020-06-10,71.9,71.44,0.46,除權,79.0,64.3,71.9,71.9

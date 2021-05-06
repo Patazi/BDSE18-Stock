@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-3609,東林,2011-07-06,38.45,37.25,1.2,除息,39.85,34.65,37.25,37.25
-3609,東林,2012-07-17,16.5,15.9,0.6,除息,17.0,14.8,15.9,15.9
-3609,東林,2018-08-17,14.6,14.4,0.2,除息,15.8,13.0,14.4,14.4
-3609,東林,2019-08-19,17.25,16.75,0.5,除息,18.4,15.1,16.75,16.75

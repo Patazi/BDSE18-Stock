@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-6570,維田,2018-07-03,28.7,27.7,1.0,除息,30.45,24.95,27.7,27.7
-6570,維田,2019-07-01,41.65,39.85,1.8,除息,43.8,35.9,39.85,39.85
-6570,維田,2020-06-30,41.6,36.22,5.38,除權息,39.8,32.6,36.2,36.22

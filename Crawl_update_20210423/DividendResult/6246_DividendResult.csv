@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-6246,臺龍,2010-12-09,21.9,21.26,0.64,除權,23.4,19.8,21.9,21.9
-6246,臺龍,2017-12-18,27.15,22.99,4.16,除權,25.25,20.7,23.0,22.99
-6246,臺龍,2018-10-11,12.9,12.4,0.5,除權,13.6,11.2,12.4,12.4
-6246,臺龍,2019-10-03,9.89,9.51,0.38,除權,10.45,8.56,9.51,9.51

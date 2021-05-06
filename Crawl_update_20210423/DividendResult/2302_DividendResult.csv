@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-2302,麗正,2011-08-19,5.5,5.35,0.14,權息,5.72,4.98,5.35,5.35
-2302,麗正,2014-10-08,6.39,6.31,0.08,權息,6.75,5.87,6.31,6.31
-2302,麗正,2015-08-13,7.14,6.59,0.55,權息,7.24,5.94,6.59,6.59
-2302,麗正,2016-09-01,6.25,6.22,0.02,息,6.84,5.6,6.22,6.22

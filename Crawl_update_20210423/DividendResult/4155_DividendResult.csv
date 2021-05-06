@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-4155,訊映,2018-07-02,29.4,27.06,2.33,權息,29.75,24.4,27.05,27.06
-4155,訊映,2019-06-27,28.9,26.65,2.25,息,29.3,24.0,26.65,26.65
-4155,訊映,2020-06-22,31.75,29.6,2.15,權息,33.3,26.65,30.3,30.31

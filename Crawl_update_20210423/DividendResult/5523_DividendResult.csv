@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-5523,豐謙,2008-09-25,10.65,9.2,1.45,除權息,9.84,8.56,9.2,9.2
-5523,豐謙,2018-08-20,9.37,9.17,0.2,除息,10.05,8.26,9.17,9.17
-5523,豐謙,2019-08-22,10.75,10.55,0.2,除息,11.6,9.5,10.55,10.55
-5523,豐謙,2020-06-22,11.3,11.0,0.3,除息,12.1,9.9,11.0,11.0

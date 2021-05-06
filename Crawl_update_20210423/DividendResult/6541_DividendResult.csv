@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-6541,泰福-KY,2018-07-10,95.2,94.14,1.05,權,104.5,84.8,95.2,95.2
-6541,泰福-KY,2019-11-04,53.7,53.26,0.43,權,59.0,47.95,53.7,53.7
-6541,泰福-KY,2020-11-25,43.0,41.94,1.06,權,47.3,37.75,43.0,43.0

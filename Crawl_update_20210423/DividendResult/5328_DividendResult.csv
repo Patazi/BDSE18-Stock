@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-5328,華容,2011-10-13,7.63,7.38,0.25,除權息,7.89,6.87,7.38,7.38
-5328,華容,2012-07-13,7.31,7.05,0.26,除息,7.54,6.56,7.05,7.05
-5328,華容,2017-08-18,8.35,8.04,0.31,除息,8.84,7.24,8.04,8.04

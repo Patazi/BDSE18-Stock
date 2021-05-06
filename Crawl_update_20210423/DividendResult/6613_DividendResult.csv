@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-6613,朋億,2018-06-26,183.5,173.5,10.0,除息,190.5,156.5,173.5,173.5
-6613,朋億,2019-06-24,175.0,160.0,15.0,除息,176.0,144.0,160.0,160.0
-6613,朋億,2020-06-29,155.5,145.5,10.0,除息,160.0,131.0,145.5,145.5

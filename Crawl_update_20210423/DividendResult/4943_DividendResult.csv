@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-4943,康控-KY,2017-08-29,216.0,204.28,11.71,權息,224.5,184.0,204.5,204.28
-4943,康控-KY,2018-07-27,296.0,264.54,31.45,權息,290.5,238.5,264.5,264.54
-4943,康控-KY,2019-07-29,176.5,163.67,12.82,權息,180.0,147.5,163.5,163.67
-4943,康控-KY,2020-08-31,102.5,88.69,13.8,權息,97.5,79.9,88.7,88.69

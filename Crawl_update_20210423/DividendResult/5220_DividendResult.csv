@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-5220,萬達光電,2018-07-26,32.5,29.9,2.6,除息,32.85,26.95,29.9,29.9
-5220,萬達光電,2019-07-26,35.8,32.8,3.0,除息,36.05,29.55,32.8,32.8
-5220,萬達光電,2020-07-16,41.0,39.6,1.4,除息,43.55,35.65,39.6,39.6

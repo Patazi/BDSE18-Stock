@@ -1,3 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-8028,昇陽半導體,2019-06-17,44.75,43.15,1.6,息,47.45,38.85,43.15,43.15
-8028,昇陽半導體,2020-06-24,59.1,57.1,2.0,息,62.8,51.4,57.1,57.1

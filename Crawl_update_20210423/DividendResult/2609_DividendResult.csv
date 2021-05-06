@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-2609,陽明,2008-08-29,18.0,15.45,2.56,權息,16.5,14.4,15.45,15.45
-2609,陽明,2009-08-25,12.25,12.1,0.15,息,12.9,11.3,12.1,12.1
-2609,陽明,2011-09-22,16.4,13.77,2.63,權息,14.7,12.85,13.75,13.77
-2609,陽明,2017-09-29,13.15,12.87,0.28,權,14.45,11.6,13.15,13.15

@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-3711,日月光投控,2018-08-10,78.5,76.0,2.5,息,83.6,68.4,76.0,76.0
-3711,日月光投控,2019-08-13,68.9,66.4,2.5,息,73.0,59.8,66.4,66.4
-3711,日月光投控,2020-08-13,69.9,67.9,2.0,息,74.6,61.2,67.9,67.9

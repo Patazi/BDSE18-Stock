@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-6288,聯嘉,2018-07-25,21.5,21.15,0.35,息,23.25,19.05,21.15,21.15
-6288,聯嘉,2019-07-25,20.05,19.5,0.55,息,21.45,17.55,19.5,19.5
-6288,聯嘉,2020-06-29,22.6,21.81,0.78,息,23.95,19.65,21.8,21.81

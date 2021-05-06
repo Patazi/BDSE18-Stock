@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-5876,上海商銀,2019-07-08,57.4,55.4,2.0,息,60.9,49.9,55.4,55.4
-5876,上海商銀,2019-08-27,50.0,48.63,1.37,權,55.0,43.8,50.0,50.0
-5876,上海商銀,2020-07-16,47.75,45.7,2.05,息,50.2,41.15,45.7,45.7

@@ -1,3 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-3707,漢磊,2017-07-24,14.6,14.0,0.6,除權,16.05,12.6,14.6,14.6
-3707,漢磊,2019-07-18,20.5,20.35,0.15,除息,22.35,18.35,20.35,20.35

@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-6616,特昇-KY,2018-07-17,14.0,13.0,1.0,除息,14.3,11.7,13.0,13.0
-6616,特昇-KY,2019-07-12,27.1,26.1,1.0,除息,28.7,23.5,26.1,26.1
-6616,特昇-KY,2019-09-16,35.95,35.15,0.8,除息,38.65,31.65,35.15,35.15
-6616,特昇-KY,2020-07-17,30.3,28.1,2.2,除息,30.9,25.3,28.1,28.1

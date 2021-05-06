@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-4944,兆遠,2011-07-20,42.8,38.12,4.68,除權息,40.75,35.5,38.1,38.12
-4944,兆遠,2014-02-12,36.6,34.87,1.73,除權,39.15,32.45,36.6,36.6
-4944,兆遠,2015-07-28,13.7,13.58,0.12,除息,14.9,12.25,13.6,13.58

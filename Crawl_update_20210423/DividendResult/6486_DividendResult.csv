@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-6486,互動,2017-07-06,52.0,48.5,3.5,除息,53.3,43.65,48.5,48.5
-6486,互動,2018-07-11,48.5,45.3,3.2,除息,49.8,40.8,45.3,45.3
-6486,互動,2019-07-18,75.2,70.4,4.8,除息,77.4,63.4,70.4,70.4
-6486,互動,2020-07-21,78.9,72.9,6.0,除息,80.1,65.7,72.9,72.9

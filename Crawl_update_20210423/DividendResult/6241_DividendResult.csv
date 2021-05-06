@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-6241,易通展,2013-09-05,22.5,20.9,1.6,除息,22.35,19.45,20.9,20.9
-6241,易通展,2014-07-01,22.25,20.75,1.5,除息,22.2,19.3,20.75,20.75
-6241,易通展,2015-07-07,19.2,17.4,1.8,除息,19.1,15.7,17.4,17.4

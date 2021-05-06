@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-8499,鼎炫-KY,2018-08-29,77.0,71.95,5.05,息,79.1,64.8,72.0,71.95
-8499,鼎炫-KY,2019-09-09,142.0,137.0,5.0,息,150.5,123.5,137.0,137.0
-8499,鼎炫-KY,2020-07-08,134.0,129.0,5.0,息,141.5,116.5,129.0,129.0

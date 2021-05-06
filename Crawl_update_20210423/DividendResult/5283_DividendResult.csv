@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-5283,禾聯碩,2019-07-26,106.5,97.5,9.0,息,107.0,87.8,97.5,97.5
-5283,禾聯碩,2020-03-20,82.1,78.1,4.0,息,85.9,70.3,78.1,78.1
-5283,禾聯碩,2020-09-03,108.5,104.33,4.16,息,114.5,93.9,104.5,104.33
-5283,禾聯碩,2021-03-22,139.5,135.5,4.0,息,149.0,122.0,135.5,135.5

@@ -1,3 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-8906,花王,2019-08-23,17.45,17.34,0.11,除息,19.05,15.65,17.35,17.34
-8906,花王,2020-08-24,16.15,15.94,0.21,除息,17.5,14.35,15.95,15.94

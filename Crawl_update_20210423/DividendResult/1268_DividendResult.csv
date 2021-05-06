@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-1268,漢來美食,2018-07-10,123.0,113.05,9.95,除權息,124.0,102.0,113.0,113.05
-1268,漢來美食,2019-06-21,149.0,142.03,6.97,除息,156.0,128.0,142.0,142.03
-1268,漢來美食,2020-08-24,138.0,131.0,7.0,除息,144.0,118.0,131.0,131.0

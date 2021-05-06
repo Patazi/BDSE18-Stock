@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-6573,虹揚-KY,2018-07-24,46.1,45.1,1.0,息,49.6,40.6,45.1,45.1
-6573,虹揚-KY,2018-08-03,45.0,44.81,0.19,權,49.5,40.35,45.0,45.0
-6573,虹揚-KY,2019-07-25,26.25,25.36,0.88,權息,27.85,22.85,25.35,25.36
-6573,虹揚-KY,2020-06-22,19.25,18.8,0.44,權,21.15,16.95,19.25,19.25

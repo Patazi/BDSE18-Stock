@@ -1,3 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-1721,三晃,2017-07-17,14.35,13.65,0.7,息,15.0,12.3,13.65,13.65
-1721,三晃,2018-07-17,10.2,10.0,0.2,息,11.0,9.0,10.0,10.0

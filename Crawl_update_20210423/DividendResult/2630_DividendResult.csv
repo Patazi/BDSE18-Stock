@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-2630,亞航,2018-06-28,29.7,28.45,1.25,息,31.25,25.65,28.45,28.45
-2630,亞航,2019-07-04,21.7,20.7,1.0,息,22.75,18.65,20.7,20.7
-2630,亞航,2020-07-31,16.45,16.37,0.08,息,18.0,14.75,16.35,16.37
-2630,亞航,2020-11-06,16.55,15.15,1.39,權,16.65,13.65,15.15,15.15

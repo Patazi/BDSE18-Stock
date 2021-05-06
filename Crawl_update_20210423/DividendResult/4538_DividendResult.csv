@@ -1,3 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-4538,大詠城,2019-07-10,19.3,18.1,1.2,除息,19.9,16.3,18.1,18.1
-4538,大詠城,2020-07-30,15.4,14.34,1.06,除權息,15.75,12.95,14.35,14.34

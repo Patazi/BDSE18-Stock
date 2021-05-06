@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-4804,大略-KY,2016-08-11,133.0,101.79,31.21,除權息,111.5,91.7,102.0,101.79
-4804,大略-KY,2017-07-27,54.5,51.5,3.0,除息,56.6,46.35,51.5,51.5
-4804,大略-KY,2018-07-16,21.35,20.85,0.5,除息,22.9,18.8,20.85,20.85

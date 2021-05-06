@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-6582,申豐,2017-08-18,67.9,64.28,3.62,息,70.7,57.9,64.3,64.28
-6582,申豐,2018-07-31,54.5,51.01,3.49,息,56.1,45.95,51.0,51.01
-6582,申豐,2019-07-30,55.4,51.8,3.59,息,56.9,46.65,51.8,51.8
-6582,申豐,2020-07-24,144.0,139.55,4.45,息,153.5,126.0,139.5,139.55

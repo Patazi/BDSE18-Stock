@@ -1,5 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-5315,光聯,2017-07-06,23.85,21.35,2.5,除息,23.45,19.25,21.35,21.35
-5315,光聯,2018-07-05,17.0,16.0,1.0,除息,17.6,14.4,16.0,16.0
-5315,光聯,2019-07-09,20.55,19.08,1.47,除息,20.95,17.2,19.1,19.08
-5315,光聯,2020-07-01,14.0,13.18,0.82,除息,14.45,11.9,13.2,13.18

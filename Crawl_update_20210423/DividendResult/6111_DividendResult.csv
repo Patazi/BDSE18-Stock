@@ -1,3 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-6111,大宇資,2020-10-28,87.8,74.23,13.57,除權息,81.6,66.9,74.2,74.23
-6111,大宇資,2020-12-10,71.0,65.45,5.55,除權,71.9,59.0,65.5,65.45

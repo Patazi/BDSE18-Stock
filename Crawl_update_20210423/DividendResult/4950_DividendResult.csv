@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-4950,牧東,2015-10-28,18.95,18.37,0.58,除息,20.2,16.55,18.35,18.37
-4950,牧東,2016-08-02,15.2,14.68,0.52,除息,16.1,13.25,14.7,14.68
-4950,牧東,2017-07-25,19.65,18.6,1.05,除息,20.45,16.75,18.6,18.6

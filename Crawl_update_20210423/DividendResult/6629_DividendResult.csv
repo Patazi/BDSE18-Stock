@@ -1,4 +1,0 @@
-stock_id,stock_name,date,before_price,after_price,stock_and_cache_dividend,stock_or_cache_dividend,max_price,min_price,open_price,reference_price
-6629,泰金-KY,2020-07-27,57.6,54.5,3.1,除息,59.9,49.05,54.5,54.5
-6629,泰金-KY,2020-10-26,66.1,65.31,0.79,除權,72.7,58.8,66.1,66.1
-6629,泰金-KY,2021-04-15,75.3,70.81,4.49,除息,77.8,63.8,70.8,70.81
