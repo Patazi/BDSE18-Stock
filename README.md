@@ -1,1 +1,0 @@
-# BDSE18-Stock
